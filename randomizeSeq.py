@@ -20,11 +20,10 @@ def createRandomSeq(df):
     randomSeq = "".join(randomSeq)
     return randomSeq
 
-def writeFasta(fileName, seq, header = None, lineWidth = 60):
+def writeFasta(fileName, seq, header = None):
     with open(fileName, "w") as f:
         f.write(f">{header}\n")
-        for i in range(0, len(seq), lineWidth):
-            f.write(seq[i:i+lineWidth] + "\n")
+        f.write(seq + "\n")
     return None
 
 #### RUN ####
@@ -34,8 +33,9 @@ def runAll(file):
     randomSeqs = []
     for i in range(10):
         randomSeqs.append(createRandomSeq(df))
-        fileName = "random" + i + ".fasta"
-        writeFasta(fileName, randomSeqs[i])
+        header = "random" + str(i)
+        fileName = header + ".fasta"
+        writeFasta(fileName, randomSeqs[i], header = header)
         print(i, randomSeqs[i])
     return randomSeqs
 
