@@ -1,0 +1,18 @@
+[{
+ "name": "random1",
+ "modelSeeds": [
+  "1607597176"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "GEPLRKDVMDSDSVNTDSLMNDHPRMVDIRIEQLSIGLGELVEDSSPYSELLEKAPLRPQREKSATGRIPDDMVMYEESHLVIMPFVGKKLTPRAADSSA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

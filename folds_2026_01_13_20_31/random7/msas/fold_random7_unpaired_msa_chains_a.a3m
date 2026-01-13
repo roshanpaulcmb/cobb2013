@@ -1,0 +1,48 @@
+>query
+HRCVLWNAAASTSWTPPPLVRVYQQSDYGMASVAGVNVQTSSERALSTEDNRLDGHDEFDLFSTLGATIQSSGDQTGQVKIYFPYSDHITSNNAVEESMH
+>UniRef90_UPI00135663DB/352-384 [subseq from] DUF5011 domain-containing protein n=2 Tax=Listeria TaxID=1637 RepID=UPI00135663DB
+-------------------------------------------------ETIIQPNVEFDPMKTIQATDKEDGDLTSQVKVI------------------
+>UniRef90_UPI00135663DB/497-537 [subseq from] DUF5011 domain-containing protein n=2 Tax=Listeria TaxID=1637 RepID=UPI00135663DB
+----------------------------------------EAPQITGESTTRLNPTDEFDPMSTIQATDKEDGNLTNQVKV-------------------
+>UniRef90_UPI00135663DB/580-615 [subseq from] DUF5011 domain-containing protein n=2 Tax=Listeria TaxID=1637 RepID=UPI00135663DB
+----------------------------------------------GEKVTRLNPNDEFDPMSTIQATDKEDGEMTDQIKVT------------------
+>UniRef90_UPI00135663DB/738-769 [subseq from] DUF5011 domain-containing protein n=2 Tax=Listeria TaxID=1637 RepID=UPI00135663DB
+--------------------------------------------------IRLQEGDAFDPMSDIQATDKEDGDITSQMKVV------------------
+>UniRef90_A0A7X0X4K0/415-471 [subseq from] DUF5011 domain-containing protein n=3 Tax=Listeria immobilis TaxID=2713502 RepID=A0A7X0X4K0_9LIST
+-----------------------------KATFTRTVVVTEAPIITGDTETRLNPNETFDdPMSTIQATDKEDGDLTDQVKIISNN---------------
+>UniRef90_A0A7X0X4K0/739-776 [subseq from] DUF5011 domain-containing protein n=3 Tax=Listeria immobilis TaxID=2713502 RepID=A0A7X0X4K0_9LIST
+--------------------------------------------ITGDSETRLNPNTDFDPMSTIQATDKEDGDVTSEVKIT------------------
+>UniRef90_A0A7X0X4K0/810-853 [subseq from] DUF5011 domain-containing protein n=3 Tax=Listeria immobilis TaxID=2713502 RepID=A0A7X0X4K0_9LIST
+----------------------------------------VTEAPIITGDseTQLNPNANFDPMSTIQATDKEDGDITSTVKIT------------------
+>UniRef90_A0A7X0X4K0/1035-1085 [subseq from] DUF5011 domain-containing protein n=3 Tax=Listeria immobilis TaxID=2713502 RepID=A0A7X0X4K0_9LIST
+---------------------------------TFIRTVTVTEAPTITgdSETRLNPNADFDPMSTIQATDKEDGDITSAVKIT------------------
+>UniRef90_A0A7X0X4K0/1119-1162 [subseq from] DUF5011 domain-containing protein n=3 Tax=Listeria immobilis TaxID=2713502 RepID=A0A7X0X4K0_9LIST
+----------------------------------------VTEAPVISGDNetHITSEDSFDPMEGITATDEENGDLTKQIKIL------------------
+>UniRef90_UPI001625E6B2/342-396 [subseq from] DUF5011 domain-containing protein n=1 Tax=Listeria seeligeri TaxID=1640 RepID=UPI001625E6B2
+------------------------------AEAADSSVEITSNEAptITGEANtTLQPGDTFDPLNTITATDKEDGDITSSVKVT------------------
+>UniRef90_UPI001625E6B2/416-473 [subseq from] DUF5011 domain-containing protein n=1 Tax=Listeria seeligeri TaxID=1640 RepID=UPI001625E6B2
+------------------------DSDNNTASFRRTVVVTEAPVISGDSETRLTPNDTFDPMSTIQATDKEDGDITSNVKIT------------------
+>UniRef90_UPI001625E6B2/725-780 [subseq from] DUF5011 domain-containing protein n=1 Tax=Listeria seeligeri TaxID=1640 RepID=UPI001625E6B2
+-------------------------SDGNKASFTRTVVVTEAPIITGDSETQLNPNADFDPMSTIQATDKEDGDITNAVKV-------------------
+>UniRef90_UPI001625E6B2/824-859 [subseq from] DUF5011 domain-containing protein n=1 Tax=Listeria seeligeri TaxID=1640 RepID=UPI001625E6B2
+----------------------------------------------GDSETRLNPNADFDPMSTIQATDKEDGDITSAVKVT------------------
+>UniRef90_A0A7T0MAL0/452-492 [subseq from] GRAM_POS_ANCHORING domain-containing protein n=3 Tax=Listeria seeligeri TaxID=1640 RepID=A0A7T0MAL0_LISSE
+-----------------------------------------APIITGDSETRLNPNADFDPMSTIQATDKEDGDITSTVKIT------------------
+>UniRef90_A0A7T0MAL0/521-569 [subseq from] GRAM_POS_ANCHORING domain-containing protein n=3 Tax=Listeria seeligeri TaxID=1640 RepID=A0A7T0MAL0_LISSE
+---------------------------------TRTVIVTEAPIITGDSETRLNPNANFDPMSTIQAKDKEDGDITSTVKIT------------------
+>UniRef90_A0A7T0MAL0/746-801 [subseq from] GRAM_POS_ANCHORING domain-containing protein n=3 Tax=Listeria seeligeri TaxID=1640 RepID=A0A7T0MAL0_LISSE
+----------------------------GNISDTFIRTATVTEAPTITgdSETRLNPNADFDPMSTIQATDKEDGDITSAVKIT------------------
+>UniRef90_W7BWU9/1731-1773 [subseq from] Putative peptidoglycan linked protein n=1 Tax=Listeria floridensis FSL S10-1187 TaxID=1265817 RepID=W7BWU9_9LIST
+-------------------------------------VVTEAPTITGEESTRLNPNADFDPLSTMKATDKEDGDITDKLV--------------------
+>UniRef90_W7BWU9/1810-1852 [subseq from] Putative peptidoglycan linked protein n=1 Tax=Listeria floridensis FSL S10-1187 TaxID=1265817 RepID=W7BWU9_9LIST
+---------------------------------------TEGPKITGEKETTLTVGDSFDPMSTIKASDLEDGDLTGDVKII------------------
+>UniRef90_A0A1V4DI47/563-604 [subseq from] Collagen adhesin n=1 Tax=Vagococcus martis TaxID=1768210 RepID=A0A1V4DI47_9ENTE
+--------------------------------------VLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
+>UniRef90_A0A1V4DI47/671-714 [subseq from] Collagen adhesin n=1 Tax=Vagococcus martis TaxID=1768210 RepID=A0A1V4DI47_9ENTE
+------------------------------------SVVLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
+>UniRef90_UPI000B58C782/510-552 [subseq from] DUF5011 domain-containing protein n=5 Tax=Listeriaceae TaxID=186820 RepID=UPI000B58C782
+---------------------------------------TAAPVITGEMETRLNPNAEFDPMSTIGASDKEDGEVTSQVEIT------------------
+>UniRef90_UPI000B58C782/596-630 [subseq from] DUF5011 domain-containing protein n=5 Tax=Listeriaceae TaxID=186820 RepID=UPI000B58C782
+------------------------------------------------AKTRLNPNAKFDPMSTINATDEEDGDITSQVEITS-----------------
+>SRR6516164_8426783/98-147 [subseq from] SRR6516164_8426783
+--------------------------------YAG--AQPYYEQALAIRRKAL-GNDQAataQSLNNIGALLESMGDQTGARQYY------------------

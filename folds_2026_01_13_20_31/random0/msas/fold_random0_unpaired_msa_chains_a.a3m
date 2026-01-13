@@ -1,0 +1,20 @@
+>query
+SAKGVQVTVRFSNLDYTTEASEVASLAHVIPTQLVKKYGRFFQRLSYPLKFPTQTKEYEAQRIPGDVVQTSENIISIECPLALSVCWLFTEKILFFSAAA
+>UniRef90_A0A1N7RI10/3-41 [subseq from] T9SS type A sorting domain-containing protein (Fragment) n=1 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI10_9BACT
+------ITYSFSNSDGCTDTTGAAITIHALPTATI-AYGTYCARDS------------------------------------------------------
+>UniRef90_A0A1N7RI10/80-119 [subseq from] T9SS type A sorting domain-containing protein (Fragment) n=1 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI10_9BACT
+-----WITYSFSNSDGCTDTTGAAITIHALPTATI-AYGTYCARDS------------------------------------------------------
+>UniRef90_A0A1N7RI10/315-353 [subseq from] T9SS type A sorting domain-containing protein (Fragment) n=1 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI10_9BACT
+------ITYSFSNSDGCTDTTGAAITIHALPTASI-AYGTYCARDS------------------------------------------------------
+>UniRef90_A0A1N7RI98/87-126 [subseq from] SprB repeat-containing protein (Fragment) n=1 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI98_9BACT
+-----WITYSFSNSDGCTDTTGASITIHALPTATI-AYGTYCARDS------------------------------------------------------
+>UniRef90_A0A1N7RI98/243-282 [subseq from] SprB repeat-containing protein (Fragment) n=1 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI98_9BACT
+-----WITYSFSNSDGCTDTTGAAITIHALPTASI-AYGTYCARDS------------------------------------------------------
+>UniRef90_A0A1N7RI60/81-121 [subseq from] SprB repeat-containing protein (Fragment) n=2 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI60_9BACT
+-----WITYSFSNSDGCTDTTGAAITIHALPTATI-AYGTYCARDSA-----------------------------------------------------
+>UniRef90_A0A1N7RI60/315-355 [subseq from] SprB repeat-containing protein (Fragment) n=2 Tax=Filimonas lacunae TaxID=477680 RepID=A0A1N7RI60_9BACT
+-----WITYSFSNSDGCTDTTGASITIHALPTATI-AYGTYCARDSA-----------------------------------------------------
+>SRR6266852_362481/20-51 [subseq from] SRR6266852_362481
+----------------------------------VPRAGRRVPRAARPGEYPAQAGEYPARRGPAS----------------------------------
+>SRR6266852_362481/113-145 [subseq from] SRR6266852_362481
+---------------------------------RVPRAGRRVPRAARPGEYPAQAGEYPARRGPAS----------------------------------

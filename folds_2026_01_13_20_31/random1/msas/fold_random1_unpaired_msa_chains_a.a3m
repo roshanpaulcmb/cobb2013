@@ -1,0 +1,66 @@
+>query
+GEPLRKDVMDSDSVNTDSLMNDHPRMVDIRIEQLSIGLGELVEDSSPYSELLEKAPLRPQREKSATGRIPDDMVMYEESHLVIMPFVGKKLTPRAADSSA
+>UniRef90_UPI001C3CE2F3/52-80 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGADSLVvDDTPTAVDIRVEDIRV----------------------------------------------------------------
+>UniRef90_UPI001C3CE2F3/81-120 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+---------EGDTVGVDSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/103-143 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGVDSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/126-166 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGVDSLVvDDTPTAVDIRVEGDTVGADSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/149-189 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVGADSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/218-257 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVGVDSLVVEDTP-----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/241-281 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGVDSLVvEDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/287-327 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGADSLVvEDTPTAVDIRVEGDTVGADSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/333-373 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVVADSLVvDDTPTAVDIRVEGDTVVADSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/379-419 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVVADSLVvDDTPTAVDIRVEGDTVVADILVGDDTPT----------------------------------------------------
+>UniRef90_UPI001C3CE2F3/425-476 [subseq from] uncharacterized protein LOC112223948 n=1 Tax=Oncorhynchus tshawytscha TaxID=74940 RepID=UPI001C3CE2F3
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVVADSLVVDDTPAvEEPVEDTPVA------------------------------------------
+>UniRef90_UPI001130317E/59-97 [subseq from] uncharacterized protein LOC115124316 n=1 Tax=Oncorhynchus nerka TaxID=8023 RepID=UPI001130317E
+----------GDTVGADSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001130317E/103-143 [subseq from] uncharacterized protein LOC115124316 n=1 Tax=Oncorhynchus nerka TaxID=8023 RepID=UPI001130317E
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001130317E/205-243 [subseq from] uncharacterized protein LOC115124316 n=1 Tax=Oncorhynchus nerka TaxID=8023 RepID=UPI001130317E
+----------GDTVRVDSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPT----------------------------------------------------
+>UniRef90_UPI001130317E/295-345 [subseq from] uncharacterized protein LOC115124316 n=1 Tax=Oncorhynchus nerka TaxID=8023 RepID=UPI001130317E
+--------VEGDTVGVDSLVvDDTPTAVDIRVEGDTVGVDSLVVDDMPAvEEPVEDTPV-------------------------------------------
+>UniRef90_A0A8K9V6J1/80-119 [subseq from] ANK_REP_REGION domain-containing protein n=7 Tax=Oncorhynchus TaxID=8016 RepID=A0A8K9V6J1_ONCMY
+---------EGDTVGADSLVvDDTPIAVDIRVEGDTVGADSLVVDDTPI----------------------------------------------------
+>UniRef90_A0A8K9V6J1/121-165 [subseq from] ANK_REP_REGION domain-containing protein n=7 Tax=Oncorhynchus TaxID=8016 RepID=A0A8K9V6J1_ONCMY
+-----VDIrVEGDTVGADSLVvDDTPTAVDIRVEGDTMGADSLVVDDTPT----------------------------------------------------
+>UniRef90_A0A8K9V6J1/171-211 [subseq from] ANK_REP_REGION domain-containing protein n=7 Tax=Oncorhynchus TaxID=8016 RepID=A0A8K9V6J1_ONCMY
+--------VEGDTMGADSLVvDDTPTAVDIRVEGDTVGADSLVVDDTPT----------------------------------------------------
+>UniRef90_A0A8K9V6J1/263-313 [subseq from] ANK_REP_REGION domain-containing protein n=7 Tax=Oncorhynchus TaxID=8016 RepID=A0A8K9V6J1_ONCMY
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVGADSLVVDDTPAvEEPVEDTPV-------------------------------------------
+>UniRef90_UPI001E667AE3/65-104 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+---------EGDTVVADSLVvDDTPAAVDIRVEGDTVVADSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/87-127 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDTVVADSLVvDDTPAAVDIRVEGDSVVADSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/110-150 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDSVVADSLVvDDTPAAVDIRVEGDSVVADSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/133-173 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDSVVADSLVvDDTPAAVDIRVEGDTVVADSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/156-196 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDTVVADSLVvDDTPAAVDIRVEGDTVVADSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/202-241 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDTVVADSLVvDDTPAAVDIRVEGDTVVADSLVVDDTP-----------------------------------------------------
+>UniRef90_UPI001E667AE3/225-265 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDTVVADSLVvDDTPAAVDIRVEGDTVVVDSLVVDDTPA----------------------------------------------------
+>UniRef90_UPI001E667AE3/271-322 [subseq from] uncharacterized protein LOC106589948 isoform X1 n=4 Tax=Salmo TaxID=8028 RepID=UPI001E667AE3
+--------VEGDTVVADSLVvDDTPAAVDIRVEGDTVVADSLVVDDTPAvEEPVEDTPVA------------------------------------------
+>UniRef90_A0A8C7N013/193-232 [subseq from] Uncharacterized LOC109883508 n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7N013_ONCKI
+---------EGDTVGADSLVvDDTPTAVDIRVEGDTVGADSLVVDDTPT----------------------------------------------------
+>UniRef90_A0A8C7N013/215-255 [subseq from] Uncharacterized LOC109883508 n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7N013_ONCKI
+--------VEGDTVGADSLVvDDTPTAVDIRVEGDTVGVDSLVVDDSPT----------------------------------------------------
+>UniRef90_A0A8C7N013/238-278 [subseq from] Uncharacterized LOC109883508 n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7N013_ONCKI
+--------VEGDTVGVDSLVvDDSPTAVDIRVEGDTVVADSLVVDDTPT----------------------------------------------------
+>UniRef90_A0A8C7N013/261-300 [subseq from] Uncharacterized LOC109883508 n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7N013_ONCKI
+--------VEGDTVVADSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTP-----------------------------------------------------
+>UniRef90_A0A8C7N013/284-334 [subseq from] Uncharacterized LOC109883508 n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7N013_ONCKI
+--------VEGDTVGVDSLVvDDTPTAVDIRVEGDTVGVDSLVVDDTPAvEEPVEDTPV-------------------------------------------

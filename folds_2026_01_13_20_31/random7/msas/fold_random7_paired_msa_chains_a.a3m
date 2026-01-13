@@ -1,0 +1,30 @@
+>query
+HRCVLWNAAASTSWTPPPLVRVYQQSDYGMASVAGVNVQTSSERALSTEDNRLDGHDEFDLFSTLGATIQSSGDQTGQVKIYFPYSDHITSNNAVEESMH
+>tr|A0A7X0X4K0|A0A7X0X4K0_9LIST/415-471 [subseq from] DUF5011 domain-containing protein OS=Listeria immobilis OX=2713502 GN=HCJ38_00595 PE=4 SV=1
+-----------------------------KATFTRTVVVTEAPIITGDTETRLNPNETFDdPMSTIQATDKEDGDLTDQVKIISNN---------------
+>tr|A0A7X0X4K0|A0A7X0X4K0_9LIST/739-776 [subseq from] DUF5011 domain-containing protein OS=Listeria immobilis OX=2713502 GN=HCJ38_00595 PE=4 SV=1
+--------------------------------------------ITGDSETRLNPNTDFDPMSTIQATDKEDGDVTSEVKIT------------------
+>tr|A0A7X0X4K0|A0A7X0X4K0_9LIST/810-853 [subseq from] DUF5011 domain-containing protein OS=Listeria immobilis OX=2713502 GN=HCJ38_00595 PE=4 SV=1
+----------------------------------------VTEAPIITGDseTQLNPNANFDPMSTIQATDKEDGDITSTVKIT------------------
+>tr|A0A7X0X4K0|A0A7X0X4K0_9LIST/1035-1085 [subseq from] DUF5011 domain-containing protein OS=Listeria immobilis OX=2713502 GN=HCJ38_00595 PE=4 SV=1
+---------------------------------TFIRTVTVTEAPTITgdSETRLNPNADFDPMSTIQATDKEDGDITSAVKIT------------------
+>tr|A0A7X0X4K0|A0A7X0X4K0_9LIST/1119-1162 [subseq from] DUF5011 domain-containing protein OS=Listeria immobilis OX=2713502 GN=HCJ38_00595 PE=4 SV=1
+----------------------------------------VTEAPVISGDNetHITSEDSFDPMEGITATDEENGDLTKQIKIL------------------
+>tr|A0A7T0MAL0|A0A7T0MAL0_LISSE/452-492 [subseq from] GRAM_POS_ANCHORING domain-containing protein OS=Listeria seeligeri OX=1640 GN=pLIS400141c PE=4 SV=1
+-----------------------------------------APIITGDSETRLNPNADFDPMSTIQATDKEDGDITSTVKIT------------------
+>tr|A0A7T0MAL0|A0A7T0MAL0_LISSE/521-569 [subseq from] GRAM_POS_ANCHORING domain-containing protein OS=Listeria seeligeri OX=1640 GN=pLIS400141c PE=4 SV=1
+---------------------------------TRTVIVTEAPIITGDSETRLNPNANFDPMSTIQAKDKEDGDITSTVKIT------------------
+>tr|A0A7T0MAL0|A0A7T0MAL0_LISSE/746-801 [subseq from] GRAM_POS_ANCHORING domain-containing protein OS=Listeria seeligeri OX=1640 GN=pLIS400141c PE=4 SV=1
+----------------------------GNISDTFIRTATVTEAPTITgdSETRLNPNADFDPMSTIQATDKEDGDITSAVKIT------------------
+>tr|W7BWU9|W7BWU9_9LIST/1731-1773 [subseq from] Putative peptidoglycan linked protein OS=Listeria floridensis FSL S10-1187 OX=1265817 GN=MFLO_09382 PE=4 SV=1
+-------------------------------------VVTEAPTITGEESTRLNPNADFDPLSTMKATDKEDGDITDKLV--------------------
+>tr|W7BWU9|W7BWU9_9LIST/1810-1852 [subseq from] Putative peptidoglycan linked protein OS=Listeria floridensis FSL S10-1187 OX=1265817 GN=MFLO_09382 PE=4 SV=1
+---------------------------------------TEGPKITGEKETTLTVGDSFDPMSTIKASDLEDGDLTGDVKII------------------
+>tr|A0A1V4DI47|A0A1V4DI47_9ENTE/563-604 [subseq from] Uncharacterized protein OS=Vagococcus martis OX=1768210 GN=BW731_07975 PE=4 SV=1
+--------------------------------------VLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
+>tr|A0A1V4DI47|A0A1V4DI47_9ENTE/671-714 [subseq from] Uncharacterized protein OS=Vagococcus martis OX=1768210 GN=BW731_07975 PE=4 SV=1
+------------------------------------SVVLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
+>tr|A0A1V4DI47|A0A1V4DI47_9ENTE/781-824 [subseq from] Uncharacterized protein OS=Vagococcus martis OX=1768210 GN=BW731_07975 PE=4 SV=1
+------------------------------------SVVLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
+>tr|A0A1V4DI47|A0A1V4DI47_9ENTE/1111-1154 [subseq from] Uncharacterized protein OS=Vagococcus martis OX=1768210 GN=BW731_07975 PE=4 SV=1
+------------------------------------SVVLSAKKSLSGRD-LVDGEFKFELRDEAGKVLQTQTNQAGQVNF-------------------
