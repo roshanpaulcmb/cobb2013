@@ -1,0 +1,4 @@
+Notes
+
+1. Lecture on developing amber forcefields
+2. Equillibration vs. running simulations
