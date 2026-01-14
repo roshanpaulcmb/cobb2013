@@ -5,7 +5,6 @@ import numpy as np
 
 #### FUNCTIONS ####
 
-
 def readData(file):
     df = pd.read_csv(file)
     return df
@@ -33,6 +32,8 @@ def compareBarplot(csv1, csv2, feature, label1="CSV 1", label2="CSV 2"):
     plt.tight_layout()
     plt.savefig(f"{feature}.png")
     plt.close()
+    
+    return None
 
 
 #### RUN ####
