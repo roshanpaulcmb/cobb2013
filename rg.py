@@ -19,12 +19,12 @@ def writeCsv(fileName, results):
 
     with open(fileName, "w") as f:
         # Write header
-        f.write(", ".join(headers) + "\n")
+        f.write(",".join(headers) + "\n")
 
         # Write rows
         for file, features in results.items():
             values = [str(features[h]) for h in features.keys()]
-            f.write(f"{file}, " + ", ".join(values) + "\n")
+            f.write(f"{file}," + ",".join(values) + "\n")
 
     print(f"Wrote {fileName}")
     return None

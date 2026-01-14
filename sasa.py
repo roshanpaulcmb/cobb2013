@@ -31,8 +31,48 @@ def calcSasa(file, method = "LeeRichards"):
     else:
         print("Method must be 'LeeRichards', 'ShrakeRupley', or 'Bio.PDB'")
 
-    return sasa
+    return sasa   
 
+def writeCsv(fileName, results):
+    # Collect headers from the first entry
+    features = next(iter(results.values()))
+    headers = ["file"] + list(features.keys())
+
+    with open(fileName, "w") as f:
+        # Write header
+        f.write(",".join(headers) + "\n")
+
+        # Write rows
+        for file, features in results.items():
+            values = [str(features[h]) for h in features.keys()]
+            f.write(f"{file}, " + ",".join(values) + "\n")
+
+    print(f"Wrote {fileName}")
+    return None
+
+#### RUN ####
+
+def runAll(dir):
+    results = {}
+    
+    for fname in sorted(os.listdir(dir)):
+        name, ext = os.path.splitext(fname)
+        
+        if ext == ".pdb":
+            
+            path = os.path.join(dir, fname)
+            sasa = calcSasa(path, method = "LeeRichards")
+            results[fname] = sasa
+            # calcSasa(path, method = "ShrakeRupley")
+            # calcSasa(path, method = "Bio.PDB")
+    writeCsv(os.path.join(dir, "sasaLeeRichards.csv"), results)
+    return None
+
+if __name__ == "__main__":
+    dirs = ["ESM", "Alphafold"]
+    for dir in dirs:
+        runAll(dir)
+        
 #### SCRIPTS ####
 # Biopython ShrakeRupley
 
@@ -66,44 +106,4 @@ def calcSasa(file, method = "LeeRichards"):
 # area_classes_sr = freesasa.classifyResults(result_sr, structure_sr)    
 # print("Total : ", result_sr.totalArea(), "using ShrakeRupley")    
 # for key in area_classes_sr:
-#     print(key, ": ", area_classes_sr[key], "using ShrakeRupley")      
-
-def writeCsv(fileName, results):
-    # Collect headers from the first entry
-    features = next(iter(results.values()))
-    headers = ["file"] + list(features.keys())
-
-    with open(fileName, "w") as f:
-        # Write header
-        f.write(", ".join(headers) + "\n")
-
-        # Write rows
-        for file, features in results.items():
-            values = [str(features[h]) for h in features.keys()]
-            f.write(f"{file}, " + ", ".join(values) + "\n")
-
-    print(f"Wrote {fileName}")
-    return None
-
-#### RUN ####
-
-def runAll(dir):
-    results = {}
-    
-    for fname in sorted(os.listdir(dir)):
-        name, ext = os.path.splitext(fname)
-        
-        if ext == ".pdb":
-            
-            path = os.path.join(dir, fname)
-            sasa = calcSasa(path, method = "LeeRichards")
-            results[fname] = sasa
-            # calcSasa(path, method = "ShrakeRupley")
-            # calcSasa(path, method = "Bio.PDB")
-    writeCsv(os.path.join(dir, "sasaLeeRichards.csv"), results)
-    return None
-
-if __name__ == "__main__":
-    dirs = ["ESM", "Alphafold"]
-    for dir in dirs:
-        runAll(dir)
+#     print(key, ": ", area_classes_sr[key], "using ShrakeRupley")   
